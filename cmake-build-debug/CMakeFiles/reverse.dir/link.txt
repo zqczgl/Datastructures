@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\reverse.dir/objects.a
+C:\Users\86151\Desktop\mingw64\bin\ar.exe cr CMakeFiles\reverse.dir/objects.a @CMakeFiles\reverse.dir\objects1.rsp
+C:\Users\86151\Desktop\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\reverse.dir/objects.a -Wl,--no-whole-archive -o reverse.exe -Wl,--out-implib,libreverse.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\reverse.dir\linklibs.rsp

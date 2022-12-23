@@ -1,0 +1,10 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\86151\CLionProjects\untitled
+-- Configuring done
+CMake Error: Cannot determine link language for target "skipNode".
+CMake Error: CMake can not determine linker language for target: skipNode
+CMake Error: Cannot determine link language for target "loserTree".
+CMake Error: CMake can not determine linker language for target: loserTree
+CMake Error: Cannot determine link language for target "CatalogTree".
+CMake Error: CMake can not determine linker language for target: CatalogTree
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.

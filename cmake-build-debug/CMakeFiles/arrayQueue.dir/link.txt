@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\arrayQueue.dir/objects.a
+C:\Users\86151\Desktop\mingw64\bin\ar.exe cr CMakeFiles\arrayQueue.dir/objects.a @CMakeFiles\arrayQueue.dir\objects1.rsp
+C:\Users\86151\Desktop\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\arrayQueue.dir/objects.a -Wl,--no-whole-archive -o arrayQueue.exe -Wl,--out-implib,libarrayQueue.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\arrayQueue.dir\linklibs.rsp

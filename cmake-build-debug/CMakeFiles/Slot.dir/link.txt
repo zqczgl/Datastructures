@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Slot.dir/objects.a
+C:\Users\86151\Desktop\mingw64\bin\ar.exe cr CMakeFiles\Slot.dir/objects.a @CMakeFiles\Slot.dir\objects1.rsp
+C:\Users\86151\Desktop\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Slot.dir/objects.a -Wl,--no-whole-archive -o Slot.exe -Wl,--out-implib,libSlot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Slot.dir\linklibs.rsp
